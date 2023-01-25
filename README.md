@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @ChaconErick23
 - 👀 I’m interested in Computer Science and technology
-- 🌱 I’m currently learning C++ at Montgomery College
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently studying C++ and Java at Montgomery College
 - 📫 Reach me through email: chacon.erick23@gmail.com
 
 <!---
